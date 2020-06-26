@@ -1,5 +1,7 @@
 # Background Generator Mini-Project
 
+## See live code: https://wildelyssa.github.io/background-generator/
+
 ## Tech Used
 * **HTML**
 * **CSS**
